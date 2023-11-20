@@ -3,31 +3,29 @@
 <h3 align="center">Learning Full Stack Dev</h3>
 
 
-<p align="left"> <a href="https://twitter.com/pseudo" target="blank"><img src="https://img.shields.io/twitter/follow/naparuba?logo=twitter&style=for-the-badge" alt="naparuba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MajorOneil3" target="blank"><img src="https://img.shields.io/twitter/follow/MajorOneil3?logo=twitter&style=for-the-badge" alt="MajorOneil3" /></a> </p>
 
-- 🐍 I did create the [Shinken monitoring tool](https://github.com/shinken-solutions/shinken)
+- 🔭 I’m currently working on 
 
-- 🔭 I’m currently working on [Fdcn](https://github.com/naparuba/fdcn)
+- 🌱 I’m currently learning **PHP, PYTHON**
 
-- 🌱 I’m currently learning **Golang**
+- 🤝 I’m looking for help with
 
-- 🤝 I’m looking for help with [Mangle](https://github.com/naparuba/mangle)
+- 👨‍💻 All of my projects are available at
 
-- 👨‍💻 All of my projects are available at [https://jean.gabes.fr/parcours.html#projects](https://jean.gabes.fr/parcours.html#projects)
-
-- 📝 I regularly write articles on [https://jean.gabes.fr/blog.html](https://jean.gabes.fr/blog.html)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **naparuba@gmail.com**
+- 📫 How to reach me **richtofen60@gmail.com**
 
-- 📄 Know about my experiences [https://jean.gabes.fr/parcours.html](https://jean.gabes.fr/parcours.html)
+- 📄 Know about my experiences https://
 
-- ⚡ Fun fact **I was CEO+CTO of the Shinken Solutions company**
+- ⚡ Fun fact **Use Printf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/naparuba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naparuba" height="30" width="40" /></a>
+<a href="https://twitter.com/MajorOneil3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MajorOneil3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jean.gabes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean.gabes" height="30" width="40" /></a>
 </p>
 
