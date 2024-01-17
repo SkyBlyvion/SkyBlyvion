@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/MajorOneil3" target="blank"><img src="https://img.shields.io/twitter/follow/MajorOneil3?logo=twitter&style=for-the-badge" alt="MajorOneil3" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on SYMFONY
 
-- 🌱 I’m currently learning **PHP, PYTHON**
+- 🌱 I’m currently learning **PHP**
 
-- 🤝 I’m looking for help with
+- 🤝 I’m looking for help with /
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at  /
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on  /
 
 - 💬 Ask me about **Python**
 
