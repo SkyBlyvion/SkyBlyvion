@@ -40,8 +40,6 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
-
 ### 👨‍💻 Dev Life:
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -73,7 +71,9 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://curl.se/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" alt="curl" width="40" height="40"/> </a>
 <a href="https://www.consul.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/> </a>
 <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" width="40" height="40"/> </a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
 
 
 
