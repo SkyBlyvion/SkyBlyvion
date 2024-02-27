@@ -40,7 +40,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
 
 ### 👨‍💻 Dev Life:
 <p align="left"> 
