@@ -1,27 +1,39 @@
-
 <h1 align="center">Hi 👋, I'm Lopez Nicolas</h1>
 <h3 align="center">Learning Full Stack Dev</h3>
 
-
 <p align="left"> <a href="https://twitter.com/MajorOneil3" target="blank"><img src="https://img.shields.io/twitter/follow/MajorOneil3?logo=twitter&style=for-the-badge" alt="MajorOneil3" /></a> </p>
 
-- 🔭 I’m currently working on SYMFONY
+- 🔭 I’m currently working on **Symfony** projects, exploring the depths of this powerful framework to create robust web applications.
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP** in detail and enhancing my skills in **React** for front-end development to build interactive user interfaces.
 
-- 🤝 I’m looking for help with /
+- 👨‍💻 All of my projects are available at [your GitHub projects link].
 
-- 👨‍💻 All of my projects are available at  /
+- 📝 I regularly write articles on [your blog link].
 
-- 📝 I regularly write articles on  /
+- 📫 How to reach me: **richtofen60@gmail.com**
 
-- 💬 Ask me about **Python**
+- 📄 Know about my experiences [your resume or LinkedIn profile link].
 
-- 📫 How to reach me **richtofen60@gmail.com**
+- ⚡ Fun fact: Use `printf` for debugging in a pinch!
 
-- 📄 Know about my experiences https://
+### Languages and Tools:
+#### Frontend:
+- **HTML/CSS/SCSS**: The building blocks of web design, allowing for complex layouts and styles.
+- **JavaScript/TypeScript**: For creating dynamic content and complex frontend logic.
+- **React**: A JavaScript library for building user interfaces.
+- **Flutter**: For building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Webpack**: A module bundler for JavaScript applications.
+- **Tailwind CSS/Bootstrap**: Utility-first CSS framework for rapidly building custom designs.
 
-- ⚡ Fun fact **Use Printf**
+#### Backend:
+- **PHP/Symfony**: For server-side programming and creating complex web applications.
+- **SQL/MongoDB**: For database management, including relational and NoSQL databases.
+- **NodeJS**: For running JavaScript on the server.
+- **Python**: A versatile scripting language that I use for various backend tasks.
+- **XML**: Used for data transportation and storage.
+
+This detailed list of technologies reflects my diverse skill set in both frontend and backend development, illustrating my capability to handle a wide range of programming tasks and projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
