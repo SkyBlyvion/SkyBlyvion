@@ -7,7 +7,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 - 🔭 I’m currently working on **React** projects, leveraging this powerful framework to create robust web applications that stand the test of time.
 
-- 👨‍💻 Discover my projects here: https://skyblyvion.github.io/.
+- 👨‍💻 Discover my website / portfolio here: https://skyblyvion.github.io/.
 
 - 📫 Reach out to me at: **richtofen60@gmail.com**
 
