@@ -5,13 +5,9 @@
 
 I'm Nicolas, a budding full-stack developer with a keen interest in building efficient and scalable web applications. I believe in the power of learning and continuously expanding my skill set to include the latest technologies and best practices in web development.
 
-- 🔭 I’m currently working on **Symfony** projects, leveraging this powerful framework to create robust web applications that stand the test of time.
+- 🔭 I’m currently working on **React** projects, leveraging this powerful framework to create robust web applications that stand the test of time.
 
-- 🌱 Expanding my horizons by learning **PHP** and **React**, aiming to craft interactive and responsive user interfaces that enhance user experience.
-
-- 👨‍💻 Discover my projects here: [your GitHub projects link].
-
-- 📝 I share my learning journey and insights on [your blog link].
+- 👨‍💻 Discover my projects here: https://skyblyvion.github.io/.
 
 - 📫 Reach out to me at: **richtofen60@gmail.com**
 
