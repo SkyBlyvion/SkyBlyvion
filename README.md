@@ -11,9 +11,9 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 - 📫 Reach out to me at: **richtofen60@gmail.com**
 
-- 📄 Learn more about my professional journey: [your resume or LinkedIn profile link].
+- 📄 Learn more about my professional journey: https://www.linkedin.com/in/nicolas-lopez-910642194/.
 
-- ⚡ Fun fact: I find `printf` surprisingly handy for quick debugging sessions!
+- ⚡ Fun fact: Use `print(f)` 
 
 ### 💼 Skills and Tools:
 
