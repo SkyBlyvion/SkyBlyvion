@@ -5,7 +5,7 @@
 
 I'm Nicolas, a budding full-stack developer with a keen interest in building efficient and scalable web applications. I believe in the power of learning and continuously expanding my skill set to include the latest technologies and best practices in web development.
 
-- 🔭 I’m currently working on **React** projects, leveraging this powerful framework to create robust web applications that stand the test of time.
+- 🔭 I’m currently working on Business Central BC365.
 
 - 👨‍💻 Discover my website / portfolio here: https://skyblyvion.github.io/. --  🔨 in progress 🔨 -- 
 
