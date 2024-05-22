@@ -30,6 +30,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 - **NodeJS**: Creating scalable backend services.
 - **Python**: Automating tasks and data processing.
 - **XML**: Structuring data for easy exchange and storage.
+- **AL (Application Language)**: Developing business logic and backend processes for MC 365 Business Central.
 
 ### 🤝 Connect with me:
 <p align="left">
