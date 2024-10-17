@@ -26,17 +26,13 @@ jobs:
       - name: Run script to update README.md
         run: node index.js
 
-      - name: Commit changes
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: SkyBlyvion
           author_email: richtofen60@gmail.com
           message: ':memo: README.md updated by GBot'
           add: 'README.md'
-          pull: '--rebase --autostash'
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          push: true  # Push directement après commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
