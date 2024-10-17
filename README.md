@@ -3,12 +3,12 @@
 
 I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
 
-
+---
 
 ### 🔭 **Current Focus:**
 - Working on **Business Central BC365**.
 
-
+---
 
 <h3 align="center">Languages and Tools</h3>
 
