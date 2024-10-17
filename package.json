@@ -1,0 +1,22 @@
+{
+  "name": "strings-974",
+  "version": "1.0.0",
+  "description": "Simple JavaScript strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lotfi-66/SkyBlyvion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyBlyvion/SkyBlyvionissues"
+  },
+  "homepage": "https://github.com/SkyBlyvion/SkyBlyvion#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}

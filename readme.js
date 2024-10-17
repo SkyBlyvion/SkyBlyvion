@@ -1,3 +1,4 @@
+const readmeTemplate = `
 <h1 align="center">Hi 👋, I'm Lopez Nicolas</h1>
 <h3 align="center">Passionate Full Stack Developer on a Learning Journey</h3>
 
@@ -7,13 +8,13 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 - 🔭 I’m currently working on Business Central BC365.
 
-- 👨‍💻 Discover my website / portfolio here: https://skyblyvion.github.io/. --  🔨 in progress 🔨 -- 
+- 👨‍💻 Discover my website / portfolio here: https://skyblyvion.github.io/. --  🔨 in progress 🔨 --
 
 - 📫 Reach out to me at: **richtofen60@gmail.com**
 
 - 📄 Learn more about my professional journey: https://www.linkedin.com/in/nicolas-lopez-910642194/.
 
-- ⚡ Fun fact: Use `print(f)` 
+- ⚡ Fun fact: Use \`print(f)\`
 
 ### 💼 Skills and Tools:
 
@@ -52,7 +53,6 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> </a>
 </p>
 
-
 ### 🛠 Ops Life:
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -72,7 +72,14 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
 
+---
 
+Updated today: <#today_date>
 
+Unix: <#fun_time>
 
+Days until New Year: <#day_before_new_years>
 
+`;
+
+module.exports = readmeTemplate;
