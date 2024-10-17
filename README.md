@@ -75,25 +75,6 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 </table>
 
 
-
-### 🛠️ **Tech Stack & Skills**
-
-#### 🌐 **Frontend**
-- **HTML/CSS/SCSS** – Building responsive designs.
-- **JavaScript/TypeScript** – Interactive web pages.
-- **React & Flutter** – Cross-platform UI development.
-- **Webpack** – Efficient asset bundling.
-- **Tailwind CSS & Bootstrap** – Modern design frameworks.
-
-#### ⚙️ **Backend**
-- **PHP/Symfony** – Server-side development.
-- **SQL/MongoDB** – Databases (relational and NoSQL).
-- **NodeJS** – Scalable backend services.
-- **Python** – Task automation and data processing.
-- **AL (Application Language)** – Business logic for **MC 365 Business Central**.
-
-
-
 ### 🌐 **Discover More About Me**
 
 - **Website/Portfolio**: [My Portfolio](https://skyblyvion.github.io/) – *Currently under construction 🛠️*
