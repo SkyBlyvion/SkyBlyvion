@@ -89,7 +89,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** <#today_date> by the AutomatedWorkflow
+- **Updated:** <#today_date>
 - **Quote of the Day:** *<#random_quote>*
 `;
 
