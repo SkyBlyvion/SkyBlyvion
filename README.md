@@ -78,9 +78,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 - **Updated:** Thu Oct 17 2024
 - **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
----
 
----
 
 Updated today: Thu Oct 17 2024
 
