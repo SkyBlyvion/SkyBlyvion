@@ -3,12 +3,12 @@
 
 I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
 
----
+
 
 ### 🔭 **Current Focus:**
 - Working on **Business Central BC365**.
 
----
+
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -74,7 +74,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
   </tr>
 </table>
 
----
+
 
 ### 🛠️ **Tech Stack & Skills**
 
@@ -92,7 +92,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 - **Python** – Task automation and data processing.
 - **AL (Application Language)** – Business logic for **MC 365 Business Central**.
 
----
+
 
 ### 🌐 **Discover More About Me**
 
