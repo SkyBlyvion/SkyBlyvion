@@ -34,7 +34,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 - **AL (Application Language)**: Developing business logic and backend processes for MC 365 Business Central.
 
 ### 🤝 Connect with me:
-<p align="left">
+<!--<p align="left"> -->
 <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
 </p>
 
