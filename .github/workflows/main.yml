@@ -1,0 +1,38 @@
+name: Update README daily
+
+on:
+  schedule:
+    - cron: '5 0 * * *'  # Exécute à 00h05 UTC chaque jour
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Récupère tout l'historique pour un pull correct
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies (if needed)
+        run: npm install  # Nécessaire si vous avez un package.json
+
+      - name: Run script to update README.md
+        run: node index.js
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: SkyBlyvion
+          author_email: richtofen60@gmail.com
+          message: ':memo: README.md updated by GBot'
+          add: 'README.md'
+          push: true  # Push directement après commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
