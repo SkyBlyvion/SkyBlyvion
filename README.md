@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Lopez Nicolas</h1>
-<h3 align="center">Passionate Full Stack Developer on a Learning Journey</h3>
 
 I'm Nicolas, a budding full-stack developer with a keen interest in building efficient and scalable web applications. I believe in the power of learning and continuously expanding my skill set to include the latest technologies and best practices in web development.
 
