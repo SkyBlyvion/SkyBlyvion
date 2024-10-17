@@ -5,30 +5,27 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ---
 
-- 🔭 I’m currently working on Business Central BC365.
+### 🔭 **Current Focus:**
+- Working on **Business Central BC365**.
 
-- 👨‍💻 Discover my website / portfolio here: https://skyblyvion.github.io/. --  🔨 in progress 🔨 --
+---
 
-- 📫 Reach out to me at: **richtofen60@gmail.com**
+### 🛠️ **Tech Stack & Skills**
 
-- 📄 Learn more about my professional journey: https://www.linkedin.com/in/nicolas-lopez-910642194/.
+#### 🌐 **Frontend**
+- **HTML/CSS/SCSS** – Building responsive designs.
+- **JavaScript/TypeScript** – Interactive web pages.
+- **React & Flutter** – Cross-platform UI development.
+- **Webpack** – Efficient asset bundling.
+- **Tailwind CSS & Bootstrap** – Modern design frameworks.
 
-### 💼 Skills and Tools:
+#### ⚙️ **Backend**
+- **PHP/Symfony** – Server-side development.
+- **SQL/MongoDB** – Databases (relational and NoSQL).
+- **NodeJS** – Scalable backend services.
+- **Python** – Task automation and data processing.
+- **AL (Application Language)** – Business logic for **MC 365 Business Central**.
 
-#### 🌐 Frontend:
-- **HTML/CSS/SCSS**: Crafting beautiful and responsive designs.
-- **JavaScript/TypeScript**: Bringing web pages to life with dynamic content.
-- **React & Flutter**: Building seamless user interfaces across platforms.
-- **Webpack**: Efficiently bundling assets.
-- **Tailwind CSS & Bootstrap**: Implementing modern design patterns with ease.
-
-#### ⚙️ Backend:
-- **PHP/Symfony**: Architecting stable and secure server-side applications.
-- **SQL/MongoDB**: Managing data with proficiency in both relational and NoSQL databases.
-- **NodeJS**: Creating scalable backend services.
-- **Python**: Automating tasks and data processing.
-- **XML**: Structuring data for easy exchange and storage.
-- **AL (Application Language)**: Developing business logic and backend processes for MC 365 Business Central.
 
 ### 🤝 Connect with me: <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
 </p>
