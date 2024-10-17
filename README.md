@@ -70,7 +70,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" width="40" height="40"/> </a>
 </p>
 
-[comment]:<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br> -->
 
 ---
 
