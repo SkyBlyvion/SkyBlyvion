@@ -26,11 +26,16 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 - **Python** – Task automation and data processing.
 - **AL (Application Language)** – Business logic for **MC 365 Business Central**.
 
+---
 
-### 🤝 Connect with me: <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
-</p>
+### 🌐 **Discover More About Me**
+
+- **Website/Portfolio**: [My Portfolio](https://skyblyvion.github.io/) – *Currently under construction 🛠️*
+- **LinkedIn**: [Nicolas Lopez](https://www.linkedin.com/in/nicolas-lopez-910642194/)
+- **Email**: richtofen60@gmail.com
 
 ---
+
 
 ### 👨‍💻 Dev Life:
 <p align="left"> 
@@ -66,7 +71,14 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" width="40" height="40"/> </a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br> -->
+---
+
+### 📅 **Today’s Highlight**
+
+- **Updated:** Thu Oct 17 2024
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
+
+---
 
 ---
 
