@@ -73,7 +73,5 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 Updated today: Thu Oct 17 2024
 
-Unix: Current time: Unix timestamp: 1729159661 | Seconds since midnight: 36461
-
-Days until New Year: 76
+Today Quote: “Simplicity is prerequisite for reliability.” – Edsger Dijkstra
 
