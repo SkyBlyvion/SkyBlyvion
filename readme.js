@@ -1,8 +1,5 @@
 const readmeTemplate = `
 <h1 align="center">Hi 👋, I'm Lopez Nicolas</h1>
-<h3 align="center">Passionate Full Stack Developer on a Learning Journey</h3>
-
-<p align="left"> <a href="https://twitter.com/MajorOneil3" target="blank"><img src="https://img.shields.io/twitter/follow/MajorOneil3?logo=twitter&style=for-the-badge" alt="MajorOneil3" /></a> </p>
 
 I'm Nicolas, a budding full-stack developer with a keen interest in building efficient and scalable web applications. I believe in the power of learning and continuously expanding my skill set to include the latest technologies and best practices in web development.
 
@@ -14,7 +11,7 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 - 📄 Learn more about my professional journey: https://www.linkedin.com/in/nicolas-lopez-910642194/.
 
-- ⚡ Fun fact: Use \`print(f)\`
+- ⚡ Fun fact: Use `print(f)`
 
 ### 💼 Skills and Tools:
 
@@ -33,10 +30,10 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 - **XML**: Structuring data for easy exchange and storage.
 - **AL (Application Language)**: Developing business logic and backend processes for MC 365 Business Central.
 
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
+### 🤝 Connect with me: <a href="https://linkedin.com/in/nicolas-lopez-910642194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lopez.nicolas" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 👨‍💻 Dev Life:
 <p align="left"> 
@@ -52,6 +49,8 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> </a>
 </p>
+
+---
 
 ### 🛠 Ops Life:
 <p align="left"> 
@@ -70,15 +69,13 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyBlyvion&show_icons=true&locale=fr&layout=compact" alt="SkyBlyvion" /></p></br> -->
 
 ---
 
 Updated today: <#today_date>
 
-Unix: <#fun_time>
-
-Days until New Year: <#day_before_new_years>
+Today Quote: <#random_quote>
 
 `;
 
