@@ -11,8 +11,6 @@ I'm Nicolas, a budding full-stack developer with a keen interest in building eff
 
 - 📄 Learn more about my professional journey: https://www.linkedin.com/in/nicolas-lopez-910642194/.
 
-- ⚡ Fun fact: Use `print(f)`
-
 ### 💼 Skills and Tools:
 
 #### 🌐 Frontend:
