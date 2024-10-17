@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Lopez Nicolas</h1>
 
-I'm Nicolas, a budding full-stack developer with a keen interest in building efficient and scalable web applications. I believe in the power of learning and continuously expanding my skill set to include the latest technologies and best practices in web development.
+I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
+
+---
 
 - 🔭 I’m currently working on Business Central BC365.
 
