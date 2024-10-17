@@ -17,7 +17,8 @@ async function updateReadme() {
  
 
   // Écrire le contenu mis à jour dans README.md
-  console.log(updatedContent);
+  await fs.writeFile('README.md', updatedContent);
+  console.log('README.md updated successfully!');
 }
 
 function getTodayDate() {
