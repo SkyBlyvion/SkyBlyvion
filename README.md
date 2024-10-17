@@ -11,7 +11,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools used Regularly</h3>
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
