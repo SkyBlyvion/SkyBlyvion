@@ -89,5 +89,5 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Oct 18 2024
-- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
+- **Updated:** Sat Oct 19 2024
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
