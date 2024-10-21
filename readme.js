@@ -91,7 +91,6 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 - **Updated:** <#today_date>
 - **Quote of the Day:** *<#random_quote>*
-`;
 
 
 <p align="center">
