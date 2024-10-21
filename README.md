@@ -95,7 +95,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 ### 📅 **Today’s Dynamic Highlight**
 
 - **Updated:** Mon Oct 21 2024
-- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
+- **Quote of the Day:** *“Truth can only be found in one place: the code.” – Robert C. Martin*
 
 
 <p align="center">
