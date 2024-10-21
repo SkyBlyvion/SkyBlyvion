@@ -100,5 +100,6 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+`;
 
 module.exports = readmeTemplate;
