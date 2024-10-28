@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Oct 27 2024
-- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
+- **Updated:** Mon Oct 28 2024
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
 
 <p align="center">
