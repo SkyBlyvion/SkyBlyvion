@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Oct 31 2024
-- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
+- **Updated:** Fri Nov 01 2024
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
 
 <p align="center">
