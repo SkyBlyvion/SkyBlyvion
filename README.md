@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 03 2024
-- **Quote of the Day:** *“To iterate is human, to recurse divine.” – L. Peter Deutsch*
+- **Updated:** Mon Nov 04 2024
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
 
 <p align="center">
