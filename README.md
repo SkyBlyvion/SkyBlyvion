@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Nov 07 2024
-- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
+- **Updated:** Fri Nov 08 2024
+- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
 
 
 <p align="center">
