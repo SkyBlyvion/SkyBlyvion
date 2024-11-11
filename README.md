@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 10 2024
-- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
+- **Updated:** Mon Nov 11 2024
+- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
 
 
 <p align="center">
