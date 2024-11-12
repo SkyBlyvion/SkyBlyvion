@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Nov 11 2024
-- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
+- **Updated:** Tue Nov 12 2024
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
 
 <p align="center">
