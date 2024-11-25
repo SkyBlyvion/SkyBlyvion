@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 24 2024
-- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
+- **Updated:** Mon Nov 25 2024
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
 
 <p align="center">
