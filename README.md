@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Dec 02 2024
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Tue Dec 03 2024
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
 
 <p align="center">
