@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Dec 14 2024
-- **Quote of the Day:** *“Programmer: A machine that turns coffee into code.” – Anonymous*
+- **Updated:** Sun Dec 15 2024
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
