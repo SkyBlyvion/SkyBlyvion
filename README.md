@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/SkyBlyvion/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/404Nomad/count.svg)
 </div>
 
 I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
@@ -86,7 +86,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 🌐 **Discover More About Me**
 
-- **Website/Portfolio**: [My Portfolio](https://skyblyvion.github.io/) – *Currently under construction 🛠️*
+- **Website/Portfolio**: [My Portfolio](https://404Nomad.github.io/) – *Currently under construction 🛠️*
 - **LinkedIn**: [Nicolas Lopez](https://www.linkedin.com/in/nicolas-lopez-910642194/)
 - **Email**: richtofen60@gmail.com
 
@@ -95,7 +95,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 ### 📅 **Today’s Dynamic Highlight**
 
 - **Updated:** Mon Dec 16 2024
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
 
 <p align="center">
