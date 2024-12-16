@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lotfi-66/SkyBlyvion.git"
+    "url": "git+https://github.com/Lotfi-66/404Nomad.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SkyBlyvion/SkyBlyvionissues"
+    "url": "https://github.com/404Nomad/404Nomadissues"
   },
-  "homepage": "https://github.com/SkyBlyvion/SkyBlyvion#readme",
+  "homepage": "https://github.com/404Nomad/404Nomad#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
   }
