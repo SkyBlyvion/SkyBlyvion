@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Dec 16 2024
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Tue Dec 17 2024
+- **Quote of the Day:** *“Good specifications will always improve programmer productivity far better than any programming tool or technique.” – Milt Bryce*
 
 
 <p align="center">
