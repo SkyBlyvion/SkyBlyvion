@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Dec 18 2024
-- **Quote of the Day:** *“Premature optimization is the root of all evil.” – Donald Knuth*
+- **Updated:** Thu Dec 19 2024
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
 
 <p align="center">
