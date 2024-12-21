@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Dec 20 2024
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Sat Dec 21 2024
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
 
 <p align="center">
