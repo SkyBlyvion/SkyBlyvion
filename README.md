@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Dec 25 2024
-- **Quote of the Day:** *“You can’t have great software without a great team.” – Unknown*
+- **Updated:** Thu Dec 26 2024
+- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
 
 
 <p align="center">
