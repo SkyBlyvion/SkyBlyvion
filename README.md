@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Dec 26 2024
-- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
+- **Updated:** Fri Dec 27 2024
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
 
 <p align="center">
