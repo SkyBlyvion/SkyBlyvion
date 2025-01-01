@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Dec 31 2024
-- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+- **Updated:** Wed Jan 01 2025
+- **Quote of the Day:** *“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” – Tom Cargill*
 
 
 <p align="center">
