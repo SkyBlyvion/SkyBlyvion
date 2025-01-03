@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Jan 02 2025
-- **Quote of the Day:** *“Premature optimization is the root of all evil.” – Donald Knuth*
+- **Updated:** Fri Jan 03 2025
+- **Quote of the Day:** *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” – Bill Gates*
 
 
 <p align="center">
