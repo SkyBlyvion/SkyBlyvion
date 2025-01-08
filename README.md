@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jan 07 2025
-- **Quote of the Day:** *“Programs are meant to be read by humans and only incidentally for computers to execute.” – Donald Knuth*
+- **Updated:** Wed Jan 08 2025
+- **Quote of the Day:** *“Simplicity carried to an extreme becomes elegance.” – Jon Franklin*
 
 
 <p align="center">
