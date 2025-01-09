@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Jan 08 2025
-- **Quote of the Day:** *“Simplicity carried to an extreme becomes elegance.” – Jon Franklin*
+- **Updated:** Thu Jan 09 2025
+- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
 
 
 <p align="center">
