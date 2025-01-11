@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jan 10 2025
-- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
+- **Updated:** Sat Jan 11 2025
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
 
 <p align="center">
