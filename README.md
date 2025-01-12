@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Jan 11 2025
-- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
+- **Updated:** Sun Jan 12 2025
+- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
 
 
 <p align="center">
