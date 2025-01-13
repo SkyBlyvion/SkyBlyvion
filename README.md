@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Jan 12 2025
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Updated:** Mon Jan 13 2025
+- **Quote of the Day:** *“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” – Tom Cargill*
 
 
 <p align="center">
