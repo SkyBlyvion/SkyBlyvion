@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jan 17 2025
-- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
+- **Updated:** Sat Jan 18 2025
+- **Quote of the Day:** *“The sooner you start to code, the longer the program will take.” – Roy Carlson*
 
 
 <p align="center">
