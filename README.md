@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Jan 18 2025
-- **Quote of the Day:** *“The sooner you start to code, the longer the program will take.” – Roy Carlson*
+- **Updated:** Sun Jan 19 2025
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
 
 <p align="center">
