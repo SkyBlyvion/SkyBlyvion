@@ -12,7 +12,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 🔭 **Current Focus:**
 - Working on **Business Central BC365**.
-- **Java SpringBoot**.
+- **C++**.
 
 ---
 
@@ -95,7 +95,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 ### 📅 **Today’s Dynamic Highlight**
 
 - **Updated:** Mon Jan 20 2025
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
 
 
 <p align="center">
