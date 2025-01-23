@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Jan 22 2025
-- **Quote of the Day:** *“You can’t have great software without a great team.” – Unknown*
+- **Updated:** Thu Jan 23 2025
+- **Quote of the Day:** *“Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.” – Joyce Wheeler*
 
 
 <p align="center">
