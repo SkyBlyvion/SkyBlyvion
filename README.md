@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Jan 23 2025
-- **Quote of the Day:** *“Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.” – Joyce Wheeler*
+- **Updated:** Fri Jan 24 2025
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
 
 <p align="center">
