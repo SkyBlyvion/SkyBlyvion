@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jan 28 2025
-- **Quote of the Day:** *“Iteration without direction leads to chaos.” – Unknown*
+- **Updated:** Wed Jan 29 2025
+- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
 
 
 <p align="center">
