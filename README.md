@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jan 31 2025
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Sat Feb 01 2025
+- **Quote of the Day:** *“Programming is breaking one big impossible task into several small impossible tasks.” – Unknown*
 
 
 <p align="center">
