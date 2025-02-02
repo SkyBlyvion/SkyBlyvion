@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Feb 01 2025
-- **Quote of the Day:** *“Programming is breaking one big impossible task into several small impossible tasks.” – Unknown*
+- **Updated:** Sun Feb 02 2025
+- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
 
 
 <p align="center">
