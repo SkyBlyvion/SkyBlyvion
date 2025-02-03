@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Feb 02 2025
-- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
+- **Updated:** Mon Feb 03 2025
+- **Quote of the Day:** *“Programming is thinking, not typing.” – Casey Patton*
 
 
 <p align="center">
