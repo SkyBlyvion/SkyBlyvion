@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Feb 04 2025
-- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
+- **Updated:** Wed Feb 05 2025
+- **Quote of the Day:** *“Make it work, make it right, make it fast.” – Kent Beck*
 
 
 <p align="center">
