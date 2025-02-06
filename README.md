@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Feb 05 2025
-- **Quote of the Day:** *“Make it work, make it right, make it fast.” – Kent Beck*
+- **Updated:** Thu Feb 06 2025
+- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
 
 
 <p align="center">
