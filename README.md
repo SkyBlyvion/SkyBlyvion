@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Feb 13 2025
-- **Quote of the Day:** *“Deleted code is debugged code.” – Jeff Sickel*
+- **Updated:** Fri Feb 14 2025
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
 
 <p align="center">
