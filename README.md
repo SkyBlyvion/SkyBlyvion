@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Feb 16 2025
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Updated:** Mon Feb 17 2025
+- **Quote of the Day:** *“There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton*
 
 
 <p align="center">
