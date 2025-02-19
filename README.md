@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Feb 18 2025
-- **Quote of the Day:** *“Good code is its own best documentation.” – Steve McConnell*
+- **Updated:** Wed Feb 19 2025
+- **Quote of the Day:** *“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” – Brian Kernighan*
 
 
 <p align="center">
