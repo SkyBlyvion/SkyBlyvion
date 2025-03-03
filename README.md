@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Mar 02 2025
-- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
+- **Updated:** Mon Mar 03 2025
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
 
 <p align="center">
