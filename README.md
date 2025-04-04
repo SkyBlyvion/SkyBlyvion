@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Apr 03 2025
-- **Quote of the Day:** *“To iterate is human, to recurse divine.” – L. Peter Deutsch*
+- **Updated:** Fri Apr 04 2025
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
