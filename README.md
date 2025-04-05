@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Apr 04 2025
-- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
+- **Updated:** Sat Apr 05 2025
+- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
 
 
 <p align="center">
