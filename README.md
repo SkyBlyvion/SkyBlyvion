@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Apr 12 2025
-- **Quote of the Day:** *“The only thing worse than a problem that you can’t debug is one that you can’t reproduce.” – Unknown*
+- **Updated:** Sun Apr 13 2025
+- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
 
 
 <p align="center">
