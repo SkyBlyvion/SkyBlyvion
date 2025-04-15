@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Apr 14 2025
-- **Quote of the Day:** *“Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.” – Joyce Wheeler*
+- **Updated:** Tue Apr 15 2025
+- **Quote of the Day:** *“Simplicity carried to an extreme becomes elegance.” – Jon Franklin*
 
 
 <p align="center">
