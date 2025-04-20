@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Apr 19 2025
-- **Quote of the Day:** *“Optimism is an occupational hazard of programming: feedback is the treatment.” – Kent Beck*
+- **Updated:** Sun Apr 20 2025
+- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
 
 
 <p align="center">
