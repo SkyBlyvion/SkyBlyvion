@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat May 03 2025
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Sun May 04 2025
+- **Quote of the Day:** *“The best performance improvement is the transition from the nonworking state to the working state.” – John Ousterhout*
 
 
 <p align="center">
