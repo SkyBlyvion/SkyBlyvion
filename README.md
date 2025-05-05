@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun May 04 2025
-- **Quote of the Day:** *“The best performance improvement is the transition from the nonworking state to the working state.” – John Ousterhout*
+- **Updated:** Mon May 05 2025
+- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
 
 
 <p align="center">
