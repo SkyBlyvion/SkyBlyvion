@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue May 06 2025
-- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
+- **Updated:** Wed May 07 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 
 <p align="center">
