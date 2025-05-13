@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon May 12 2025
-- **Quote of the Day:** *“The most damaging phrase in the language is: ‘We’ve always done it this way.’” – Grace Hopper*
+- **Updated:** Tue May 13 2025
+- **Quote of the Day:** *“A good programmer is someone who always looks both ways before crossing a one-way street.” – Doug Linder*
 
 
 <p align="center">
