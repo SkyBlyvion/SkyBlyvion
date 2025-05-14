@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue May 13 2025
-- **Quote of the Day:** *“A good programmer is someone who always looks both ways before crossing a one-way street.” – Doug Linder*
+- **Updated:** Wed May 14 2025
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
 
 <p align="center">
