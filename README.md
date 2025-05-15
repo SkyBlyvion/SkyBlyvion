@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed May 14 2025
-- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
+- **Updated:** Thu May 15 2025
+- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
 
 
 <p align="center">
