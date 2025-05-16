@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu May 15 2025
-- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
+- **Updated:** Fri May 16 2025
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
 
 <p align="center">
