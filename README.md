@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat May 17 2025
-- **Quote of the Day:** *“Testing is the process of comparing the invisible to the ambiguous to avoid the unthinkable happening to the anonymous.” – James Bach*
+- **Updated:** Sun May 18 2025
+- **Quote of the Day:** *“The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.” – Donald Knuth*
 
 
 <p align="center">
