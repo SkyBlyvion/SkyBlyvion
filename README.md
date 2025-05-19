@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun May 18 2025
-- **Quote of the Day:** *“The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly.” – Donald Knuth*
+- **Updated:** Mon May 19 2025
+- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
 
 
 <p align="center">
