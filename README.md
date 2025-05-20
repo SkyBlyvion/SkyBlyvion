@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon May 19 2025
-- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
+- **Updated:** Tue May 20 2025
+- **Quote of the Day:** *“Software is a great combination of artistry and engineering.” – Bill Gates*
 
 
 <p align="center">
