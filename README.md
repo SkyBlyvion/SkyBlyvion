@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu May 22 2025
-- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
+- **Updated:** Fri May 23 2025
+- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
 
 
 <p align="center">
