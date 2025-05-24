@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri May 23 2025
-- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
+- **Updated:** Sat May 24 2025
+- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 
 <p align="center">
