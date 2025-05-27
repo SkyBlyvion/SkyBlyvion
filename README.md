@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon May 26 2025
-- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
+- **Updated:** Tue May 27 2025
+- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
 
 
 <p align="center">
