@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Jun 01 2025
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Updated:** Mon Jun 02 2025
+- **Quote of the Day:** *“Deleted code is debugged code.” – Jeff Sickel*
 
 
 <p align="center">
