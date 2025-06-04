@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jun 03 2025
-- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
+- **Updated:** Wed Jun 04 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 
 <p align="center">
