@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Jun 05 2025
-- **Quote of the Day:** *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” – Bill Gates*
+- **Updated:** Fri Jun 06 2025
+- **Quote of the Day:** *“Code is poetry.” – Automattic*
 
 
 <p align="center">
