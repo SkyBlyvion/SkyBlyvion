@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/404Nomad/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/SkyBlyvion/count.svg)
 </div>
 
 I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
@@ -86,7 +86,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 🌐 **Discover More About Me**
 
-- **Website/Portfolio**: [My Portfolio](https://404Nomad.github.io/) – *Currently under construction 🛠️*
+- **Website/Portfolio**: [My Portfolio](https://SkyBlyvion.github.io/) – *Currently under construction 🛠️*
 - **LinkedIn**: [Nicolas Lopez](https://www.linkedin.com/in/nicolas-lopez-910642194/)
 - **Email**: richtofen60@gmail.com
 
@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Jun 08 2025
-- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+- **Updated:** Mon Jun 09 2025
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
 
 <p align="center">
