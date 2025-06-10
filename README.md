@@ -94,8 +94,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Jun 09 2025
-- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
+- **Updated:** Tue Jun 10 2025
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
 
 <p align="center">
