@@ -11,8 +11,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 ---
 
 ### 🔭 **Current Focus:**
-- Working on **Business Central BC365**.
-- **C++**.
+- Working on **React - Mysql**.
 
 ---
 
