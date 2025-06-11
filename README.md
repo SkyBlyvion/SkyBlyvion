@@ -11,8 +11,7 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 ---
 
 ### 🔭 **Current Focus:**
-- Working on **Business Central BC365**.
-- **C++**.
+- Working on **React - Mysql**.
 
 ---
 
@@ -94,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jun 10 2025
-- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
+- **Updated:** Wed Jun 11 2025
+- **Quote of the Day:** *“It’s not a bug – it’s an undocumented feature.” – Anonymous*
 
 
 <p align="center">
