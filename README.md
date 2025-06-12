@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Jun 11 2025
-- **Quote of the Day:** *“It’s not a bug – it’s an undocumented feature.” – Anonymous*
+- **Updated:** Thu Jun 12 2025
+- **Quote of the Day:** *“If you think your users are idiots, only idiots will use it.” – Linus Torvalds*
 
 
 <p align="center">
