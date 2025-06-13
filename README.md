@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Jun 12 2025
-- **Quote of the Day:** *“If you think your users are idiots, only idiots will use it.” – Linus Torvalds*
+- **Updated:** Fri Jun 13 2025
+- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
 
 
 <p align="center">
