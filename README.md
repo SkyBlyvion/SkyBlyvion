@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jun 13 2025
-- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
+- **Updated:** Sat Jun 14 2025
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
 
 <p align="center">
