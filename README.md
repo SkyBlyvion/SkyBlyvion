@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Jun 15 2025
-- **Quote of the Day:** *“Programming is thinking, not typing.” – Casey Patton*
+- **Updated:** Mon Jun 16 2025
+- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
 
 
 <p align="center">
