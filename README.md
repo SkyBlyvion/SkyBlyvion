@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jun 17 2025
-- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
+- **Updated:** Wed Jun 18 2025
+- **Quote of the Day:** *“Optimism is an occupational hazard of programming: feedback is the treatment.” – Kent Beck*
 
 
 <p align="center">
