@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jun 24 2025
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Wed Jun 25 2025
+- **Quote of the Day:** *“Make it work, make it right, make it fast.” – Kent Beck*
 
 
 <p align="center">
