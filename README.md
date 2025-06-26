@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Jun 25 2025
-- **Quote of the Day:** *“Make it work, make it right, make it fast.” – Kent Beck*
+- **Updated:** Thu Jun 26 2025
+- **Quote of the Day:** *“Programming is breaking one big impossible task into several small impossible tasks.” – Unknown*
 
 
 <p align="center">
