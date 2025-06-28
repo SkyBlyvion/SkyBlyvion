@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jun 27 2025
-- **Quote of the Day:** *“There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton*
+- **Updated:** Sat Jun 28 2025
+- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
 
 
 <p align="center">
