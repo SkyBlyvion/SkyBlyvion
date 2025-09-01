@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Aug 31 2025
-- **Quote of the Day:** *“Simple things should be simple, complex things should be possible.” – Alan Kay*
+- **Updated:** Mon Sep 01 2025
+- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
 
 
 <p align="center">
