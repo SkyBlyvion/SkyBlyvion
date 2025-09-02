@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Sep 01 2025
-- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
+- **Updated:** Tue Sep 02 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 
 <p align="center">
