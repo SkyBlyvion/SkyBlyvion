@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Sep 02 2025
-- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
+- **Updated:** Wed Sep 03 2025
+- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
 
 
 <p align="center">
