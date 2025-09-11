@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Sep 10 2025
-- **Quote of the Day:** *“Code never lies, comments sometimes do.” – Ron Jeffries*
+- **Updated:** Thu Sep 11 2025
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
 
 <p align="center">
