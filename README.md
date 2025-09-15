@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Sep 14 2025
-- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
+- **Updated:** Mon Sep 15 2025
+- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
 
 
 <p align="center">
