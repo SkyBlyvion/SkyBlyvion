@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Sep 15 2025
-- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
+- **Updated:** Tue Sep 16 2025
+- **Quote of the Day:** *“The sooner you start to code, the longer the program will take.” – Roy Carlson*
 
 
 <p align="center">
