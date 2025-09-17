@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Sep 16 2025
-- **Quote of the Day:** *“The sooner you start to code, the longer the program will take.” – Roy Carlson*
+- **Updated:** Wed Sep 17 2025
+- **Quote of the Day:** *“If you think your users are idiots, only idiots will use it.” – Linus Torvalds*
 
 
 <p align="center">
