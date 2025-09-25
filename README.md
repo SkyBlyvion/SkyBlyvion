@@ -93,8 +93,8 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Sep 24 2025
-- **Quote of the Day:** *“The best performance improvement is the transition from the nonworking state to the working state.” – John Ousterhout*
+- **Updated:** Thu Sep 25 2025
+- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
 
 
 <p align="center">
