@@ -3,7 +3,7 @@ const readmeTemplate = `
 
 
 I'm **Nicolas**, a passionate **Full-Stack Developer** now pursuing a **Master’s degree**.  
-I completed my **Full-Stack program** and am now exploring **AS/400 systems** and **RPG programming**.  
+I've completed my **Full-Stack program** and am now exploring **AS/400 systems** and **RPG programming**.  
 I’m driven by **efficiency**, **scalability**, and a constant desire to learn and grow with new technologies.  
 
 ---
