@@ -1,10 +1,10 @@
 
-<h1 align="center"> 👋, Welcome</h1>
+<h1 align="center">Hi, I'm Nicolas👋</h1>
 
 
-I'm **Nicolas**, a passionate **Full-Stack Developer** now pursuing a **Master’s degree**.  
-I completed my **Full-Stack program** and am now exploring **AS/400 systems** and **RPG programming**.
-I’m driven by **efficiency**, **scalability**, and a constant desire to learn and grow with new technologies.
+I'm **Nicolas**, a **Full-Stack Developer** pursuing a **Master’s degree in IT Project Management (RNCP38905)**.     
+Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding my expertise beyond web development.   
+
 
 ---
 
@@ -100,7 +100,7 @@ I’m driven by **efficiency**, **scalability**, and a constant desire to learn 
 ### 📅 **Today’s Dynamic Highlight**
 
 - **Updated:** Fri Sep 26 2025
-- **Quote of the Day:** *“Programming is thinking, not typing.” – Casey Patton*
+- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
 
 
 <p align="center">
