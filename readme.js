@@ -1,10 +1,10 @@
 const readmeTemplate = `
-<h1 align="center"> 👋, Welcome</h1>
+<h1 align="center">Hi, I'm Nicolas👋</h1>
 
 
-I'm **Nicolas**, a passionate **Full-Stack Developer** now pursuing a **Master’s degree**.  
-I've completed my **Full-Stack program** and am now exploring **AS/400 systems** and **RPG programming**.  
-I’m driven by **efficiency**, **scalability**, and a constant desire to learn and grow with new technologies.  
+I'm **Nicolas**, a **Full-Stack Developer** pursuing a **Master’s degree in IT Project Management (RNCP38905)**.     
+Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding my expertise beyond web development.   
+
 
 ---
 
