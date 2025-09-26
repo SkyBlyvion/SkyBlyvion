@@ -1,17 +1,17 @@
 const readmeTemplate = `
 <h1 align="center"> 👋, Welcome</h1>
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/SkyBlyvion/count.svg)
-</div>
 
-I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficiency** and **scalability**. I love learning and exploring new technologies, always striving to improve my skills and stay up-to-date with the latest best practices.
+I'm **Nicolas**, a passionate **Full-Stack Developer** now pursuing a **Master’s degree**.  
+I have completed my **Full-Stack development program** and am currently exploring the world of **AS/400 systems** and **RPG programming**.  
+I’m driven by **efficiency**, **scalability**, and a constant desire to learn and grow with new technologies.
 
 ---
 
 ### 🔭 **Current Focus:**
-- Working on **React - Mysql**.
+- Exploring **AS/400** and **RPG** development  
+- Improving skills in **DevOps (Docker, Linux, CI/CD)**  
+- Building side projects
 
 ---
 
@@ -83,11 +83,17 @@ I'm **Nicolas**, a passionate **Full-Stack Developer** with a focus on **efficie
 
 ---
 
+### 🚀 Featured Projects
+
+- [Strong Password Generator](https://SkyBlyvion.github.io/) – Generate secure and customizable passwords  
+
+---
+
 ### 🌐 **Discover More About Me**
 
-- **Website/Portfolio**: [My Portfolio](https://SkyBlyvion.github.io/) – *Currently under construction 🛠️*
 - **LinkedIn**: [Nicolas Lopez](https://www.linkedin.com/in/nicolas-lopez-910642194/)
-- **Email**: richtofen60@gmail.com
+- Personal Email: richtofen60@gmail.com
+- Professional Email: lopez.nicolas.dev@gmail.com
 
 ---
 
