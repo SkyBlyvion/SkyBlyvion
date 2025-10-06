@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Oct 05 2025
-- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
+- **Updated:** Mon Oct 06 2025
+- **Quote of the Day:** *“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” – Tom Cargill*
 
 
 <p align="center">
