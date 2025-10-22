@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Oct 21 2025
-- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
+- **Updated:** Wed Oct 22 2025
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
