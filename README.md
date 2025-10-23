@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Oct 22 2025
-- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
+- **Updated:** Thu Oct 23 2025
+- **Quote of the Day:** *“Truth can only be found in one place: the code.” – Robert C. Martin*
 
 
 <p align="center">
