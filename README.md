@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Oct 24 2025
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Updated:** Sat Oct 25 2025
+- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
 
 
 <p align="center">
