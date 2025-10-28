@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Oct 27 2025
-- **Quote of the Day:** *“Programming is breaking one big impossible task into several small impossible tasks.” – Unknown*
+- **Updated:** Tue Oct 28 2025
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
 
 <p align="center">
