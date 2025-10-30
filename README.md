@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Oct 29 2025
-- **Quote of the Day:** *“The best way to learn to code is to code.” – Anonymous*
+- **Updated:** Thu Oct 30 2025
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
 
 <p align="center">
