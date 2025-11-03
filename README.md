@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 02 2025
-- **Quote of the Day:** *“The best way to learn to code is to code.” – Anonymous*
+- **Updated:** Mon Nov 03 2025
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
 
 <p align="center">
