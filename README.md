@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Nov 07 2025
-- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
+- **Updated:** Sat Nov 08 2025
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
 
 <p align="center">
