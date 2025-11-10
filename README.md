@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 09 2025
-- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
+- **Updated:** Mon Nov 10 2025
+- **Quote of the Day:** *“The best way to learn to code is to code.” – Anonymous*
 
 
 <p align="center">
