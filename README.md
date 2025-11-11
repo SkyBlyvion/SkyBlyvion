@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Nov 10 2025
-- **Quote of the Day:** *“The best way to learn to code is to code.” – Anonymous*
+- **Updated:** Tue Nov 11 2025
+- **Quote of the Day:** *“Programming is thinking, not typing.” – Casey Patton*
 
 
 <p align="center">
