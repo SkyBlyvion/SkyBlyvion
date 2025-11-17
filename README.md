@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 16 2025
-- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
+- **Updated:** Mon Nov 17 2025
+- **Quote of the Day:** *“Good specifications will always improve programmer productivity far better than any programming tool or technique.” – Milt Bryce*
 
 
 <p align="center">
