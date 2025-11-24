@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 23 2025
-- **Quote of the Day:** *“The best thing about a boolean is even if you are wrong, you are only off by a bit.” – Anonymous*
+- **Updated:** Mon Nov 24 2025
+- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
 
 
 <p align="center">
