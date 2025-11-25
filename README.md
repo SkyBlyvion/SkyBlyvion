@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Nov 24 2025
-- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
+- **Updated:** Tue Nov 25 2025
+- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
 
 
 <p align="center">
