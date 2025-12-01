@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Nov 30 2025
-- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
+- **Updated:** Mon Dec 01 2025
+- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
 
 
 <p align="center">
