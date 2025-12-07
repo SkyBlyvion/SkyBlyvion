@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Dec 06 2025
-- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
+- **Updated:** Sun Dec 07 2025
+- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
 
 
 <p align="center">
