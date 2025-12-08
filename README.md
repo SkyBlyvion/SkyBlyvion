@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Dec 07 2025
-- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
+- **Updated:** Mon Dec 08 2025
+- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
 
 
 <p align="center">
