@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Dec 08 2025
-- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
+- **Updated:** Tue Dec 09 2025
+- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
 
 
 <p align="center">
