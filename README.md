@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Dec 13 2025
-- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
+- **Updated:** Sun Dec 14 2025
+- **Quote of the Day:** *“Testing is the process of comparing the invisible to the ambiguous to avoid the unthinkable happening to the anonymous.” – James Bach*
 
 
 <p align="center">
