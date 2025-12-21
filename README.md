@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Dec 20 2025
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Sun Dec 21 2025
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
 
 <p align="center">
