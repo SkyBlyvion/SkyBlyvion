@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Dec 21 2025
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Mon Dec 22 2025
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
 
 <p align="center">
