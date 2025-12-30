@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Dec 29 2025
-- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
+- **Updated:** Tue Dec 30 2025
+- **Quote of the Day:** *“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” – Bjarne Stroustrup*
 
 
 <p align="center">
