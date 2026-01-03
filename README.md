@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jan 02 2026
-- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
+- **Updated:** Sat Jan 03 2026
+- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
 
 
 <p align="center">
