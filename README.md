@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Jan 03 2026
-- **Quote of the Day:** *“Talk is cheap. Let’s do it.” – Linus Torvalds*
+- **Updated:** Sun Jan 04 2026
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
 
 <p align="center">
