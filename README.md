@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed Jan 21 2026
-- **Quote of the Day:** *“Premature optimization is the root of all evil.” – Donald Knuth*
+- **Updated:** Thu Jan 22 2026
+- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
 
 
 <p align="center">
