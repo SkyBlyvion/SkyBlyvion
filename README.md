@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Jan 25 2026
-- **Quote of the Day:** *“Java is to JavaScript what car is to carpet.” – Chris Heilmann*
+- **Updated:** Mon Jan 26 2026
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
 
 <p align="center">
