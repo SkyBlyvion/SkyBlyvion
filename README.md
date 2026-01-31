@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Jan 30 2026
-- **Quote of the Day:** *“Programmer: A machine that turns coffee into code.” – Anonymous*
+- **Updated:** Sat Jan 31 2026
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
 
 <p align="center">
