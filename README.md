@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Feb 22 2026
-- **Quote of the Day:** *“Programming is thinking, not typing.” – Casey Patton*
+- **Updated:** Mon Feb 23 2026
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
 
 <p align="center">
