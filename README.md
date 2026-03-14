@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Mar 13 2026
-- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
+- **Updated:** Sat Mar 14 2026
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
