@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Mar 17 2026
-- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
+- **Updated:** Wed Mar 18 2026
+- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
 
 
 <p align="center">
