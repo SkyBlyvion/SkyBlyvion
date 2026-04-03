@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Apr 02 2026
-- **Quote of the Day:** *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” – Bill Gates*
+- **Updated:** Fri Apr 03 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
 
 <p align="center">
