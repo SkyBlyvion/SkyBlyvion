@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Apr 03 2026
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Sat Apr 04 2026
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
 
 <p align="center">
