@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Apr 11 2026
-- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
+- **Updated:** Sun Apr 12 2026
+- **Quote of the Day:** *“Software is a great combination of artistry and engineering.” – Bill Gates*
 
 
 <p align="center">
