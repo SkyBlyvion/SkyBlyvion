@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Apr 14 2026
-- **Quote of the Day:** *“A good programmer is someone who always looks both ways before crossing a one-way street.” – Doug Linder*
+- **Updated:** Wed Apr 15 2026
+- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
 
 
 <p align="center">
