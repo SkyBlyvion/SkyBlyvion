@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Apr 21 2026
-- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
+- **Updated:** Wed Apr 22 2026
+- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
 
 
 <p align="center">
