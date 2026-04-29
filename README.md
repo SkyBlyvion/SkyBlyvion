@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Apr 28 2026
-- **Quote of the Day:** *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” – Bill Gates*
+- **Updated:** Wed Apr 29 2026
+- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
 
 
 <p align="center">
