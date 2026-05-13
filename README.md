@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue May 12 2026
-- **Quote of the Day:** *“Testing is the process of comparing the invisible to the ambiguous to avoid the unthinkable happening to the anonymous.” – James Bach*
+- **Updated:** Wed May 13 2026
+- **Quote of the Day:** *“Simple things should be simple, complex things should be possible.” – Alan Kay*
 
 
 <p align="center">
