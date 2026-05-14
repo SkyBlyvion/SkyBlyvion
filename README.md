@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Wed May 13 2026
-- **Quote of the Day:** *“Simple things should be simple, complex things should be possible.” – Alan Kay*
+- **Updated:** Thu May 14 2026
+- **Quote of the Day:** *“If you automate a mess, you get an automated mess.” – Rod Michael*
 
 
 <p align="center">
