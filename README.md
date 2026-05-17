@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat May 16 2026
-- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
+- **Updated:** Sun May 17 2026
+- **Quote of the Day:** *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” – John Woods*
 
 
 <p align="center">
