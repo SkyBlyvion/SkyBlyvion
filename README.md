@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Jun 23 2026
-- **Quote of the Day:** *“If you think your users are idiots, only idiots will use it.” – Linus Torvalds*
+- **Updated:** Wed Jun 24 2026
+- **Quote of the Day:** *“The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” – Tom Cargill*
 
 
 <p align="center">
