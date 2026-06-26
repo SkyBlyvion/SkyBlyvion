@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Jun 25 2026
-- **Quote of the Day:** *“Optimism is an occupational hazard of programming: feedback is the treatment.” – Kent Beck*
+- **Updated:** Fri Jun 26 2026
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
 
 <p align="center">
