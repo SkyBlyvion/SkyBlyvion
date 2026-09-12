@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Fri Sep 11 2026
-- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
+- **Updated:** Sat Sep 12 2026
+- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
 
 
 <p align="center">
