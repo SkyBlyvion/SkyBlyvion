@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Sep 12 2026
-- **Quote of the Day:** *“Programming isn’t hard. It’s just getting your mind to think in a way computers do.” – Unknown*
+- **Updated:** Mon Sep 14 2026
+- **Quote of the Day:** *“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” – Norman Augustine*
 
 
 <p align="center">
