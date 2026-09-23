@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Sep 22 2026
-- **Quote of the Day:** *“It’s not a bug – it’s an undocumented feature.” – Anonymous*
+- **Updated:** Wed Sep 23 2026
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
