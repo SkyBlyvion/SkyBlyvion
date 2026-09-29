@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Sep 28 2026
-- **Quote of the Day:** *“Iteration without direction leads to chaos.” – Unknown*
+- **Updated:** Tue Sep 29 2026
+- **Quote of the Day:** *“The sooner you start to code, the longer the program will take.” – Roy Carlson*
 
 
 <p align="center">
