@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sun Oct 04 2026
-- **Quote of the Day:** *“Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function.” – John Carmack*
+- **Updated:** Mon Oct 05 2026
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 
 <p align="center">
