@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Oct 10 2026
-- **Quote of the Day:** *“A language that doesn’t affect the way you think about programming is not worth knowing.” – Alan Perlis*
+- **Updated:** Sun Oct 11 2026
+- **Quote of the Day:** *“If you think your users are idiots, only idiots will use it.” – Linus Torvalds*
 
 
 <p align="center">
