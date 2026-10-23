@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Thu Oct 22 2026
-- **Quote of the Day:** *“Programming is breaking one big impossible task into several small impossible tasks.” – Unknown*
+- **Updated:** Fri Oct 23 2026
+- **Quote of the Day:** *“When debugging, novices insert corrective code; experts remove defective code.” – Richard Pattis*
 
 
 <p align="center">
