@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Mon Oct 26 2026
-- **Quote of the Day:** *“A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want.” – Niklaus Wirth*
+- **Updated:** Tue Oct 27 2026
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
 
 <p align="center">
