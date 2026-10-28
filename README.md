@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Oct 27 2026
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Wed Oct 28 2026
+- **Quote of the Day:** *“Simple things should be simple, complex things should be possible.” – Alan Kay*
 
 
 <p align="center">
