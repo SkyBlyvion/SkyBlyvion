@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Sat Oct 31 2026
-- **Quote of the Day:** *“The most damaging phrase in the language is: ‘We’ve always done it this way.’” – Grace Hopper*
+- **Updated:** Sun Nov 01 2026
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
 
 <p align="center">
