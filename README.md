@@ -99,8 +99,8 @@ Currently, I’m exploring **AS/400 systems** and **RPG programming**, expanding
 
 ### 📅 **Today’s Dynamic Highlight**
 
-- **Updated:** Tue Nov 24 2026
-- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
+- **Updated:** Wed Nov 25 2026
+- **Quote of the Day:** *“Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.” – Joyce Wheeler*
 
 
 <p align="center">
